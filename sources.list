@@ -51,9 +51,9 @@ deb-src http://mirrors.aliyun.com/ubuntu/ xenial-updates universe
 # deb http://archive.canonical.com/ubuntu xenial partner
 # deb-src http://archive.canonical.com/ubuntu xenial partner
 
-deb http://mirrors.aliyun.com/ubuntu xenial-security main
-deb-src http://mirrors.aliyun.com/ubuntu xenial-security main
-deb http://mirrors.aliyun.com/ubuntu xenial-security universe
-deb-src http://mirrors.aliyun.com/ubuntu xenial-security universe
+deb http://mirrors.aliyun.com/ubuntu/ xenial-security main
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main
+deb http://mirrors.aliyun.com/ubuntu/ xenial-security universe
+deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security universe
 # deb http://mirrors.aliyun.com/ubuntu xenial-security multiverse
 # deb-src http://mirrors.aliyun.com/ubuntu xenial-security multiverse

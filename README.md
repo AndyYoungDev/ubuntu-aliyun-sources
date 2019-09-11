@@ -1,6 +1,6 @@
 ## ubuntu-aliyun-sources
 
-ubuntu更换国源（阿里云源）
+ubuntu更换国内源（阿里云源）
 
 ### 安装
 - 方案1.shell命令一键更换
